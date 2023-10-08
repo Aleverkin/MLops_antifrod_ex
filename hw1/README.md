@@ -23,6 +23,5 @@
 - FalsePositive - не более 5%
 - Внешняя система - причем ей будут передаваться csv файлы со всей конфиденциалкой
 
-
-![Alt text](image.png)
-![Alt text](image-1.png)
+![Alt text](hw1_1.png)
+![Alt text](hw1_2.png)
