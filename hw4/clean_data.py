@@ -68,8 +68,8 @@ session = boto3.session.Session()
 ENDPOINT = "https://storage.yandexcloud.net"
 
 session = boto3.Session(
-    aws_access_key_id=("YCAJEpQCtVf0w4xawQczRDvdv"),
-    aws_secret_access_key=("YCM0vj2zTqcSeZCkXWDlf6Xx5E7kSpCcffmXhh91"),
+    aws_access_key_id=("123"),
+    aws_secret_access_key=("123"),
     region_name="ru-central1",
 )
 
